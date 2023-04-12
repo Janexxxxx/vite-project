@@ -8,6 +8,7 @@ function App() {
   let a = 1;
   let aq = 1;
   let aqqq = 1;
+  let aqqq2 = 2;
   return (
     <div className="App">
       <div>
