@@ -5,10 +5,7 @@ import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
-  let a = 1;
-  let aq = 1;
-  let aqqq = 1;
-  let aqqq2 = 2;
+
   return (
     <div className="App">
       <div>
@@ -25,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          Editttt <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
